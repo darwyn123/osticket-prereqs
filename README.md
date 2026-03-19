@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install & Enable IIS (Internet Information Services) in Windows with GGI
+- Install & Configure PHP Manager for IIS (Internet Information Services)
+- Install Re-write Module
+- Install VC_Redistributable 
+- Install MySQL
 
 <h2>Installation Steps</h2>
 
