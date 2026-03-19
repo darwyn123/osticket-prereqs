@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install Re-write Module
 - Install VC_Redistributable 
 - Install MySQL
+- Install HeidiSQL
 
 <h2>Installation Steps</h2>
 
