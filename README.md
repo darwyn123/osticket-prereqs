@@ -62,3 +62,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <br />
+
+<h2>Create the directory C:\PHP</h2>
+
+  - Open Windows (C:), and create folder called "PHP"
+  - Unzip PHP 7.3.8 into the "C:\PHP" folder
+
+<p>
+<img <img width="615" height="517" alt="C_Drive_PHP" src="https://github.com/user-attachments/assets/a188cfa0-c3c3-4b22-aa2c-087d304c9ab8" />
+</p>
+
+<br />
