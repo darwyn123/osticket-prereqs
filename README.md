@@ -110,5 +110,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
+<h2>Configure PHP in IIS</h2>
+
+  - Open IIS (Internet Information Services) as an Admin (Run as admin)
+  - 
+
+<p>
+<img <img width="500" height="380" alt="ConfigMySQL" src="https://github.com/user-attachments/assets/cd31a42c-69fb-4d81-9f46-ce8a6a2bf29c" />
+</p>
+
+<br />
+
+
 
 
