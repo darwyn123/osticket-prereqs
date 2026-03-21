@@ -73,3 +73,38 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <br />
+
+<h2>Install VC_Redistributable</h2>
+
+  - Click "I agree", and "Install"
+
+<p>
+<img <img width="481" height="297" alt="VC_Redist" src="https://github.com/user-attachments/assets/886e63a9-3d05-4553-88c3-faf1aeebfcef" />
+</p>
+
+<br />
+
+<h2>Install MySQL</h2>
+
+  - Open Windows (C:), and create folder called "PHP"
+  - Unzip PHP 7.3.8 into the "C:\PHP" folder
+
+<p>
+<img <img width="615" height="517" alt="C_Drive_PHP" src="https://github.com/user-attachments/assets/a188cfa0-c3c3-4b22-aa2c-087d304c9ab8" />
+</p>
+
+<br />
+
+<h2>Configure PHP in IIS</h2>
+
+  - Open Windows (C:), and create folder called "PHP"
+  - Unzip PHP 7.3.8 into the "C:\PHP" folder
+
+<p>
+<img <img width="615" height="517" alt="C_Drive_PHP" src="https://github.com/user-attachments/assets/a188cfa0-c3c3-4b22-aa2c-087d304c9ab8" />
+</p>
+
+<br />
+
+
+
