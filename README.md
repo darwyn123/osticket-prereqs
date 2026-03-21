@@ -96,13 +96,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-<h2>Configure PHP in IIS</h2>
+<h2>Configure MySQL</h2>
 
-  - Open Windows (C:), and create folder called "PHP"
-  - Unzip PHP 7.3.8 into the "C:\PHP" folder
+  - Launch the MySQL Instance Configuration Wizard
+  - Choose "Standard Configuration", and click next
+  - Click "Next" again
+  - Create root login password, and click next
+  - Execute
 
 <p>
-<img <img width="615" height="517" alt="C_Drive_PHP" src="https://github.com/user-attachments/assets/a188cfa0-c3c3-4b22-aa2c-087d304c9ab8" />
+<img <img width="500" height="380" alt="ConfigMySQL" src="https://github.com/user-attachments/assets/cd31a42c-69fb-4d81-9f46-ce8a6a2bf29c" />
 </p>
 
 <br />
