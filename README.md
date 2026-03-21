@@ -46,7 +46,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click "Next"
   - Than "I Agree", and Next again
-  - Close
 
 <p>
 <img <img width="496" height="407" alt="PHPManager" src="https://github.com/user-attachments/assets/b022b303-9280-41bc-aa93-72f0c107acf0" />
