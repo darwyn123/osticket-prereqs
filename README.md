@@ -86,11 +86,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Install MySQL</h2>
 
-  - Open Windows (C:), and create folder called "PHP"
-  - Unzip PHP 7.3.8 into the "C:\PHP" folder
+  - Click "Next", and than "I Accept", and "Next" again
+  - Choose "Typical", and "Install"
 
 <p>
-<img <img width="615" height="517" alt="C_Drive_PHP" src="https://github.com/user-attachments/assets/a188cfa0-c3c3-4b22-aa2c-087d304c9ab8" />
+<img <img width="494" height="387" alt="MySQL" src="https://github.com/user-attachments/assets/09479b33-10e6-4770-93e4-5182cb6c483e" />
+ />
 </p>
 
 <br />
