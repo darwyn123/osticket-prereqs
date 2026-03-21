@@ -55,8 +55,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Install the Rewrite Module (rewrite_amd64_en-US.msi)</h2>
 
+  - Click "I accept", and than "Install"
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="494" height="383" alt="Rewrite_Mod" src="https://github.com/user-attachments/assets/3af66295-0cf5-4d13-9ed7-5ebd73c88ed0" />
 </p>
 
 <br />
