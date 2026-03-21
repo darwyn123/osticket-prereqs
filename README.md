@@ -42,12 +42,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
+<h2>Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</h2>
+
+  - Click "Next"
+  - Than "I Agree", and Next again
+  - Close
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="496" height="407" alt="PHPManager" src="https://github.com/user-attachments/assets/b022b303-9280-41bc-aa93-72f0c107acf0" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
 
 <p>
