@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL build 12.3.0.6589
 - PHP Manager for IIS v1.5.0
 - Rewrite Module 2
-- Microsoft VC 2015-2022 Redistributable 
+- Microsoft Visual C++ 2015-2022 Redistributable 
 
 
 <h2>Installation Steps</h2>
