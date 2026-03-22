@@ -112,11 +112,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Configure PHP in IIS</h2>
 
-  - Open IIS (Internet Information Services) as an Admin (Run as admin)
-  - 
+  - Run IIS (Internet Information Services) as an Admin 
+  - Open PHP Manager, and click "Register new PHP version" and browse to C:\PHP folder and choose php-cgi
+  - Go to back to home, under Actions, under Manage Server and click "stop" than "start" to reload IIS
 
 <p>
-<img <img width="500" height="380" alt="ConfigMySQL" src="https://github.com/user-attachments/assets/cd31a42c-69fb-4d81-9f46-ce8a6a2bf29c" />
+<img <img width="1066" height="614" alt="PHP_Register" src="https://github.com/user-attachments/assets/0996cd51-bfb5-4a29-95ae-9eb69b3a50c1" />
 </p>
 
 <br />
