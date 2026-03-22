@@ -129,10 +129,41 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - And paste "upload" file into wwwroot
   - Than rename "upload" file (in wwwroot) to "osTicket"
   - Open IIS and Reload IIS (Stop and Start the server)
-  - Go to sites > Default > osTicket, and on the right side under Browse Folder click "Browse 80(http)" 
+  - Go to sites > Default Web Site > osTicket, and on the right side under Browse Folder click "Browse 80(http)" 
 
 <p>
 <img <img width="889" height="755" alt="osTicket_Install" src="https://github.com/user-attachments/assets/54a3634f-8e65-435d-a05b-fea127af813d" />
+</p>
+
+<br />
+
+<h2>More Configuration of PHP in IIS</h2>
+
+  - Open IIS, go to sites > Default Web Site > osTicket
+  - Double-click PHP Manager, and click "Enable or disable an extension"
+  - Enable php_imap.dll
+  - Enable php_intl.dll
+  - Enable php_opcache.dll
+
+<p>
+<img <img width="909" height="613" alt="Enable_php" src="https://github.com/user-attachments/assets/0e068365-9e03-4989-a3b2-99b534d7d5f0" />
+</p>
+
+<br />
+
+<h2>osTicket Setup</h2>
+
+  - Open Windows (C:) > inetpub > wwwroot and open "osTicket" folder, than open "include"
+  - Rename ost-sampleconfig.php to ost-config.php
+  - Right click ost-config.php and click "Properties", and than go to "Security" and than "Advanced"
+  - Than click on "Disable inheritance", choose "Remove all inherited permissions from this object"
+  - Than click "Add" to add on new permission. Than click "Select a principal" (In this example "everyone" has permission)
+  - Under "Enter the object name to select" type in "Everyone" and than click OK
+  - Click box "Full control" and than OK
+  - Click "Apply" and OK
+
+<p>
+<img <img width="766" height="521" alt="Add_Everyone" src="https://github.com/user-attachments/assets/30c63df8-c349-4b66-a913-39fbf649938c" />
 </p>
 
 <br />
