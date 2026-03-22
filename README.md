@@ -18,12 +18,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install & Enable IIS (Internet Information Services) in Windows with GGI
-- Install & Configure PHP Manager for IIS (Internet Information Services)
-- Install Re-write Module
-- Install VC_Redistributable 
-- Install MySQL
-- Install HeidiSQL
+- osTicket v1.15.8
+- MySQL v5.5.62
+- Heidi SQL build 12.3.0.6589
+- PHP Manager for IIS v1.5.0
+- Rewrite Module 2
+- Microsoft VC 2015-2022 Redistributable 
+
 
 <h2>Installation Steps</h2>
 
