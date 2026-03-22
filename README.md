@@ -219,7 +219,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-<h2>Congrates</h2>
+<h2>Congratulations</h2>
   
 <p>
 <img <img width="637" height="498" alt="Congrates" src="https://github.com/user-attachments/assets/4481d939-1a39-4dd8-81db-3cac4b3fa2bc" />
