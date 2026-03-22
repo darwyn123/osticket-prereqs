@@ -168,5 +168,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
+<h2>Setting up osTicket in the Browser</h2>
+
+  - Open osTicket Web Site and click "Continue"
+  - Enter HelpDesk name, email
+  - Enter Admin User name, email
+  - Enter Username and Password
+
+<p>
+<img <img width="908" height="630" alt="osTicket_Browser_Setup" src="https://github.com/user-attachments/assets/575c4464-e25c-4fb2-9bb7-1adf3c660dd4" />
+</p>
+
+<br />
+
 
 
