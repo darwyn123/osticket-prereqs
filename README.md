@@ -206,6 +206,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
+<h2>Continue Setting Up osTicket in the Browser</h2>
+
+  - Open osTicket browser
+  - Under "MySQL Database" enter osTicket (Heidi database you created)
+  - Enter MySQL Username & MySQL Password
+  - Click "Install Now"
+
+<p>
+<img <img width="686" height="766" alt="osTicket_InstallNow" src="https://github.com/user-attachments/assets/8c022600-7eec-4905-a18f-304083c8e233" />
+</p>
+
+<br />
+
+<h2>Congrates</h2>
+  
+<p>
+<img <img width="637" height="498" alt="Congrates" src="https://github.com/user-attachments/assets/4481d939-1a39-4dd8-81db-3cac4b3fa2bc" />
+</p>
+
+<br />
+
+<h2>You can now login</h2>
+  
+<p>
+<img <img width="637" height="498" alt="Login" src="https://github.com/user-attachments/assets/22799044-9a71-41ea-b9e6-da364677a5a8" />
+</p>
+
+<br />
+
 
 
 
