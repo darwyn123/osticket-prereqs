@@ -122,6 +122,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
+<h2>Install osTicket v1.15.8</h2>
+
+  - Extract osTicket v1.15.8 folder and than open folder and copy "upload" file
+  - Than open Windows (C:)> inetpub > wwwroot
+  - And paste "upload" file into wwwroot
+  - Than rename "upload" file (in wwwroot) to "osTicket"
+  - Open IIS and Reload IIS (Stop and Start the server)
+  - Go to sites > Default > osTicket, and on the right side under Browse Folder click "Browse 80(http)" 
+
+<p>
+<img <img width="889" height="755" alt="osTicket_Install" src="https://github.com/user-attachments/assets/54a3634f-8e65-435d-a05b-fea127af813d" />
+</p>
+
+<br />
 
 
 
