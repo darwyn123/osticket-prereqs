@@ -181,5 +181,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
+<h2>Install HeidiSQL</h2>
+
+  - Click "I accept the aggreement" than next, and next again, and next again, and next 
+  - Than "Install"
+
+<p>
+<img <img width="595" height="462" alt="Heidi_Install" src="https://github.com/user-attachments/assets/396ad4f2-dddb-4375-9c0a-823647fd61e8" />
+</p>
+
+<br />
+
+
 
 
