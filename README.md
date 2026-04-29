@@ -142,10 +142,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
   - Than open the new extracted osTicket v1.15.8 folder and copy "upload" file
+<p>
+<img <img width="957" height="550" alt="Upload_Copy" src="https://github.com/user-attachments/assets/6bc24bf0-bdb6-4ffc-a06e-224d56354ec1" />
+</p>
+
   - Than open Windows (C:)> inetpub > wwwroot
   - And paste "upload" file into wwwroot
 <p>
-<img <img width="1359" height="753" alt="Paste_uploads_To_wwwroot" src="https://github.com/user-attachments/assets/f86a83ab-178a-4eeb-a917-b213a965c0f6" />
+<img <img width="957" height="550" alt="Upload_Copy" src="https://github.com/user-attachments/assets/e9c5ed49-325d-470c-8aef-d2b9fe52f936" />
 </p>
 
   - Than rename "upload" file (in wwwroot) to "osTicket"
