@@ -149,12 +149,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Than open Windows (C:)> inetpub > wwwroot
   - And paste "upload" file into wwwroot
 <p>
-<img <img width="957" height="550" alt="Upload_Copy" src="https://github.com/user-attachments/assets/e9c5ed49-325d-470c-8aef-d2b9fe52f936" />
+<img <img width="1295" height="781" alt="Upload_Paste" src="https://github.com/user-attachments/assets/80f68d97-64a7-4905-b2bf-2506bc564a6b" />
 </p>
 
   - Than rename "upload" file (in wwwroot) to "osTicket"
 <p>
-<img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
+<img <img width="959" height="533" alt="Upload_Rename" src="https://github.com/user-attachments/assets/6d41799b-148b-42d6-ad3e-f423e37f713e" />
 </p>
 
   - Open IIS and Reload IIS (Stop and Start the server)
