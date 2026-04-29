@@ -185,7 +185,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
   - Enable php_imap.dll
+    <p>
+<img <img width="955" height="531" alt="PHP_IMAP" src="https://github.com/user-attachments/assets/fbd3d675-8e56-474a-833f-18f62a1005a6" />
+</p>
+
   - Enable php_intl.dll
+   <p>
+<img <img width="955" height="531" alt="PHP INTI" src="https://github.com/user-attachments/assets/93679d4d-ac94-4b7f-955f-02679bd3c57a" />
+</p>
+
   - Enable php_opcache.dll
 
 <p>
