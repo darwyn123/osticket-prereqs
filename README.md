@@ -137,27 +137,31 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Install osTicket v1.15.8</h2>
 
   - Extract osTicket v1.15.8 folder and than open folder and copy "upload" file
-  <p>
+<p>
 <img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
+
   - Than open Windows (C:)> inetpub > wwwroot
   - And paste "upload" file into wwwroot
-  <p>
+<p>
 <img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
+
   - Than rename "upload" file (in wwwroot) to "osTicket"
-  <p>
+<p>
 <img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
+
   - Open IIS and Reload IIS (Stop and Start the server)
-  <p>
+<p>
 <img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
 <p>
 <img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
+
   - Go to sites > Default Web Site > osTicket, and on the right side under Browse Folder click "Browse 80(http)" 
-  <p>
+<p>
 <img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
 
