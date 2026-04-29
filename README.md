@@ -136,11 +136,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Install osTicket v1.15.8</h2>
 
-  - Extract osTicket v1.15.8 folder and than open folder and copy "upload" file
+  - Extract osTicket v1.15.8 folder inside installion folder.
 <p>
 <img <img width="1127" height="592" alt="Extract_osTicket" src="https://github.com/user-attachments/assets/5d9d7f61-6eee-483a-a202-c99ac789749b" />
 </p>
 
+  - Than open the new extracted osTicket v1.15.8 folder and copy "upload" file
   - Than open Windows (C:)> inetpub > wwwroot
   - And paste "upload" file into wwwroot
 <p>
