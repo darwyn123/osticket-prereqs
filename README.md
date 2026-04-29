@@ -159,10 +159,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Open IIS and Reload IIS (Stop and Start the server)
 <p>
-<img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
+<img <img width="959" height="528" alt="PHP_IIS_STOP" src="https://github.com/user-attachments/assets/046e8fab-40c3-4319-b3e1-884d337a7892" />
 </p>
 <p>
-<img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
+<img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/fe1a4883-77af-4948-963e-39a01a9e60fe" />
 </p>
 
   - Go to sites > Default Web Site > osTicket, and on the right side under Browse Folder click "Browse 80(http)" 
