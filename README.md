@@ -117,10 +117,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Run IIS (Internet Information Services) as an Admin 
   - Open PHP Manager, and click "Register new PHP version" and browse to C:\PHP folder and choose php-cgi
-  - Go to back to home, under Actions, under Manage Server and click "stop" than "start" to reload IIS
-
 <p>
 <img <img width="1066" height="614" alt="PHP_Register" src="https://github.com/user-attachments/assets/0996cd51-bfb5-4a29-95ae-9eb69b3a50c1" />
+</p>
+
+  - Go back to home, and under Connections right click "osticket-vm(osticket-vm\labuser)" and click "Stop"
+<p>
+<img <img width="959" height="528" alt="PHP_IIS_STOP" src="https://github.com/user-attachments/assets/d0549208-35fc-4996-8a99-23124ef41bcd" 
+/>
+</p>
+
+  - Right click "osticket-vm(osticket-vm\labuser)" again and click "Start" to reload IIS
+<p>
+<img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
 </p>
 
 <br />
