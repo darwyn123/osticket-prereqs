@@ -167,7 +167,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Go to sites > Default Web Site > osTicket, and on the right side under Browse Folder click "Browse 80(http)" 
 <p>
-<img <img width="959" height="528" alt="PHP_IIS_START" src="https://github.com/user-attachments/assets/a9b83b06-68a1-4495-9b6c-93141ea440ab" />
+<img <img width="955" height="531" alt="Browser" src="https://github.com/user-attachments/assets/bd7411bf-31d4-402e-8f63-024aaedfe387" />
 </p>
 
 <p>
