@@ -277,12 +277,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Configure HeidiSQL</h2>
 
   - Open HeidiSQL, click "New"
-  - Enter the password you came up with in MySQL Server with the username root, and than click "Open" (Opens connection to database)
-  - Right click "Unamed" and choose "Create new" > "Database"
-  - Name it "osTicket" and than click OK
+  <p>
+<img <img width="684" height="483" alt="HeidiSQL_New" src="https://github.com/user-attachments/assets/62ea280c-9886-4189-834b-ba33d7e03259" />
+</p>
 
+  - Enter the password you came up with in MySQL Server with the username root, and than click "Open" (Opens connection to database)
+   <p>
+<img <img width="684" height="483" alt="Heidi_Root" src="https://github.com/user-attachments/assets/44bd1173-5472-43f9-b2f2-b2220f709515" />
+</p>
+
+  - Right click "Unamed" and choose "Create new" > "Database"
+  <p>
+<img <img width="937" height="538" alt="Heidi_Create_Database" src="https://github.com/user-attachments/assets/10c2bcda-6466-43fa-ba2a-5d209d6d0a3e" />
+</p>
+
+  - Name it "osTicket" and than click OK
 <p>
-<img <img width="937" height="592" alt="Config_Heidi" src="https://github.com/user-attachments/assets/1f13f5c7-4403-4de0-8a14-bc26772d6f2b" />
+<img <img width="937" height="531" alt="Database_Creation" src="https://github.com/user-attachments/assets/aa8db624-cf18-416b-b3e0-7b8fb570c33f" />
+</p>
+<p>
+<img <img width="937" height="531" alt="Database_Official" src="https://github.com/user-attachments/assets/6bb7945b-3cb6-4e49-9977-0783dadd1f15" />
 </p>
 
 <br />
