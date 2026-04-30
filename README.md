@@ -205,14 +205,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>osTicket Setup</h2>
 
   - Open Windows (C:) > inetpub > wwwroot and open "osTicket" folder, than open "include"
+  <p>
+<img <img width="960" height="532" alt="osTicket_Include" src="https://github.com/user-attachments/assets/a17e3e91-03e8-4581-ac8f-e3287760365f" />
+ />
+</p>
+
   - Rename ost-sampleconfig.php to ost-config.php
+   <p>
+<img <img width="960" height="532" alt="Rename_ost-sample" src="https://github.com/user-attachments/assets/1f7567bc-4e31-4e2e-a0bb-f4ad3b591ab6" />
+</p>
+ <p>
+<img <img width="960" height="532" alt="Renamed_ost-config" src="https://github.com/user-attachments/assets/3e1db41d-7b2f-4dbd-9a6f-94601738895f" />
+</p>
+
   - Right click ost-config.php and click "Properties", and than go to "Security" and than "Advanced"
+   <p>
+<img <img width="959" height="601" alt="ost-properities" src="https://github.com/user-attachments/assets/52a5ed08-ff49-4def-bc5a-086a8ff519be" />
+</p>
+
   - Than click on "Disable inheritance", choose "Remove all inherited permissions from this object"
-  - Than click "Add" to add on new permission. Than click "Select a principal" (In this example "everyone" has permission)
-  - Under "Enter the object name to select" type in "Everyone" and than click OK
+     <p>
+<img <img width="863" height="577" alt="Disable_inheritance" src="https://github.com/user-attachments/assets/0b6489a1-20f9-40e4-8836-292878831555" />
+</p>
+
+  - Than click "Add" to add on new permission. Than click "Select a principal" 
+       <p>
+<img <img width="918" height="594" alt="Select_Principal" src="https://github.com/user-attachments/assets/37a5d150-098d-4a54-ba81-778fba4a9bb2" />
+</p>
+
+  - Under "Enter the object name to select" type in "Everyone" and than click OK (In this example "everyone" has permission)
+ <p>
+<img <img width="461" height="252" alt="Everyone_Premissions" src="https://github.com/user-attachments/assets/a6e2ccc4-dcf4-4589-8516-c936f040cfa3" />
+</p>
+
   - Click box "Full control" and than OK
   - Click "Apply" and OK
-
+<p>
+<img <img width="918" height="595" alt="Full_Control" src="https://github.com/user-attachments/assets/4a5be3c8-fb28-4847-b19a-ff0601caba4a" />
+</p>
 <p>
 <img <img width="766" height="521" alt="Add_Everyone" src="https://github.com/user-attachments/assets/30c63df8-c349-4b66-a913-39fbf649938c" />
 </p>
