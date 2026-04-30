@@ -207,7 +207,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Open Windows (C:) > inetpub > wwwroot and open "osTicket" folder, than open "include"
   <p>
 <img <img width="960" height="532" alt="osTicket_Include" src="https://github.com/user-attachments/assets/a17e3e91-03e8-4581-ac8f-e3287760365f" />
- />
 </p>
 
   - Rename ost-sampleconfig.php to ost-config.php
@@ -225,12 +224,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Than click on "Disable inheritance", choose "Remove all inherited permissions from this object"
      <p>
-<img <img width="863" height="577" alt="Disable_inheritance" src="https://github.com/user-attachments/assets/0b6489a1-20f9-40e4-8836-292878831555" />
+<img width="863" height="577" alt="Disable_inheritance" src="https://github.com/user-attachments/assets/0b6489a1-20f9-40e4-8836-292878831555" />
 </p>
 
   - Than click "Add" to add on new permission. Than click "Select a principal" 
        <p>
-<img <img width="918" height="594" alt="Select_Principal" src="https://github.com/user-attachments/assets/37a5d150-098d-4a54-ba81-778fba4a9bb2" />
+<img width="918" height="594" alt="Select_Principal" src="https://github.com/user-attachments/assets/37a5d150-098d-4a54-ba81-778fba4a9bb2" />
 </p>
 
   - Under "Enter the object name to select" type in "Everyone" and than click OK (In this example "everyone" has permission)
